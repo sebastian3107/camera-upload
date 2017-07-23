@@ -1,0 +1,2 @@
+@reboot rm /home/pi/upload.lock
+*/5 * * * * sh /home/pi/kameraupload.sh
